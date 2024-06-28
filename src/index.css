@@ -1,0 +1,20 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.tutelle-MENJ { filter: hue-rotate(30deg); }
+.tutelle-MESR { filter: hue-rotate(180deg); }
+.tutelle-MSJOP { filter: hue-rotate(90deg); }
+.tutelle-unknown { filter: grayscale(100%); } 

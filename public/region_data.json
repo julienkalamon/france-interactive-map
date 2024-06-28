@@ -1,0 +1,141 @@
+{
+  "Echelon région": {
+    "etablissements": 0,
+    "tutelles": [
+      "Tutelle"
+    ]
+  },
+  "Ile-de-France": {
+    "etablissements": 2293,
+    "tutelles": [
+      "Non spécifié",
+      "MSJOP",
+      "MESR",
+      "MENJ"
+    ]
+  },
+  "Occitanie": {
+    "etablissements": 325,
+    "tutelles": [
+      "Non spécifié",
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Grand Est": {
+    "etablissements": 350,
+    "tutelles": [
+      "Non spécifié",
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "ETRANGER": {
+    "etablissements": 4,
+    "tutelles": [
+      "Non spécifié",
+      "MESR"
+    ]
+  },
+  "Hauts-de-France": {
+    "etablissements": 257,
+    "tutelles": [
+      "Non spécifié",
+      "MESR"
+    ]
+  },
+  "Nouvelle Aquitaine": {
+    "etablissements": 348,
+    "tutelles": [
+      "MSJOP",
+      "MESR",
+      "MENJ"
+    ]
+  },
+  "Normandie": {
+    "etablissements": 112,
+    "tutelles": [
+      "Non spécifié",
+      "MESR"
+    ]
+  },
+  "Auvergne-Rhône-Alpes": {
+    "etablissements": 386,
+    "tutelles": [
+      "Non spécifié",
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Provence-Alpes-Côte d'Azur": {
+    "etablissements": 287,
+    "tutelles": [
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Centre Val-de-Loir": {
+    "etablissements": 127,
+    "tutelles": [
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Guadeloupe": {
+    "etablissements": 2,
+    "tutelles": [
+      "MSJOP"
+    ]
+  },
+  "La Réunion": {
+    "etablissements": 34,
+    "tutelles": [
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Pays-de-la-Loire": {
+    "etablissements": 153,
+    "tutelles": [
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Guyane": {
+    "etablissements": 21,
+    "tutelles": [
+      "MESR"
+    ]
+  },
+  "Bourgogne-Franche Comté": {
+    "etablissements": 151,
+    "tutelles": [
+      "MESR"
+    ]
+  },
+  "Corse": {
+    "etablissements": 23,
+    "tutelles": [
+      "MESR"
+    ]
+  },
+  "Mayotte": {
+    "etablissements": 2,
+    "tutelles": [
+      "MESR"
+    ]
+  },
+  "Bretagne": {
+    "etablissements": 165,
+    "tutelles": [
+      "MSJOP",
+      "MESR"
+    ]
+  },
+  "Polynésie": {
+    "etablissements": 3,
+    "tutelles": [
+      "MESR"
+    ]
+  }
+}

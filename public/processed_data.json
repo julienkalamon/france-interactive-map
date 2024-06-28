@@ -1,0 +1,1942 @@
+[
+  {
+    "name": "NOM",
+    "tutelle": "Tutelle",
+    "etabCount": 0,
+    "address": "Adresse Siège Social ",
+    "postalCode": null,
+    "city": "Code Postal",
+    "department": "Département",
+    "region": "Echelon région"
+  },
+  {
+    "name": "Académie des Sciences d'Outre Mer",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "15 RUE LA PEROUSE 75016 PARIS",
+    "postalCode": null,
+    "city": "75016",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Académie des Technologies",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "LE PONANT 19 RUE LEBLANC 75015 PARIS",
+    "postalCode": null,
+    "city": "75015",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Agence Bibliographique de l'Enseignement Supérieur",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "227 AVENUE PROFESSEUR JEAN-LOUIS VIALA 34080 MONTPELLIER",
+    "postalCode": null,
+    "city": "34030",
+    "department": "34",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Agence Française de Lutte contre le Dopage",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "8 RUE AUBER 75009 PARIS",
+    "postalCode": null,
+    "city": "75009",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Agence Nationale pour la Recherche",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "IMMEUBLE KADENCE 86 RUE REGNAULT 75013 PARIS",
+    "postalCode": null,
+    "city": "75013",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Bibliothèque Nationale Universitaire de Strasbourg",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "5 RUE DU MARECHAL JOFFRE 67000 STRASBOURG",
+    "postalCode": null,
+    "city": "67000",
+    "department": "67",
+    "region": "Grand Est"
+  },
+  {
+    "name": "Campus Condorcet",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "8 COURS DES HUMANITES 93300 AUBERVILLIERS",
+    "postalCode": null,
+    "city": "93300",
+    "department": "93",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Casa de Velasquez / CASA DE VELAZQUEZ DE MADRID",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "CIUDAD UNIVERSITARIA 3 C/DE PAUL GUINARD MADRID ESPAGNE",
+    "postalCode": null,
+    "city": "ESPAGNE",
+    "department": "ES",
+    "region": "ETRANGER"
+  },
+  {
+    "name": "Centrale Lille",
+    "tutelle": "Non spécifié",
+    "etabCount": 4,
+    "address": "CITE SCIENTIFIQUE 59491 VILLENEUVE D'ASCQ",
+    "postalCode": null,
+    "city": "59491",
+    "department": "59",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "Centrale SUPELEC/CentraleSupélec",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "PLATEAU DE MOULON 3 RUE JOLIOT-CURIE 91190 GIF-SUR-YVETTE",
+    "postalCode": null,
+    "city": "91190",
+    "department": "91",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Centre informatique nationale de l'enseignement supérieur - Montpellier",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "950 RUE SAINT-PRIEST 34090 MONTPELLIER",
+    "postalCode": null,
+    "city": "34090",
+    "department": "34",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Centre National de recherche scientifique",
+    "tutelle": "Non spécifié",
+    "etabCount": 927,
+    "address": "CNRS MOY1601 PRESIDENCE, 3 RUE MICHEL-ANGE 75016 PARIS",
+    "postalCode": null,
+    "city": "75016",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Centre National d'enseignement à Distance",
+    "tutelle": "MENJ",
+    "etabCount": 10,
+    "address": "CNED-DIRECTION GENERALE, TELEPORT 2 2 BOULEVARD NICEPHORE NIEPCE 86360 CHASSENEUIL-DU-POITOU",
+    "postalCode": null,
+    "city": "86360",
+    "department": "86",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "Centre National des Œuvres universitaires et Scolaires",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "60 BOULEVARD DU LYCEE 92170 VANVES",
+    "postalCode": null,
+    "city": "92170",
+    "department": "92",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Centre technique du Livre de l'Enseignement Supérieur",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "CTLES, 14 AVENUE GUTENBERG 77600 BUSSY-SAINT-GEORGES",
+    "postalCode": null,
+    "city": "77600",
+    "department": "77",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Collège de France",
+    "tutelle": "Non spécifié",
+    "etabCount": 3,
+    "address": "11 PLACE MARCELIN BERTHELOT 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ComUE Normandie Université",
+    "tutelle": "Non spécifié",
+    "etabCount": 2,
+    "address": "ESPLANADE DE LA PAIX 14000 CAEN",
+    "postalCode": null,
+    "city": "14000",
+    "department": "14",
+    "region": "Normandie"
+  },
+  {
+    "name": "ComUE Université de Lyon",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "90-92 90 RUE PASTEUR 69007 LYON",
+    "postalCode": null,
+    "city": "69007",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "Conservatoire National des Arts et Métiers",
+    "tutelle": "Non spécifié",
+    "etabCount": 66,
+    "address": "292 RUE SAINT-MARTIN 75003 PARIS",
+    "postalCode": null,
+    "city": "75003",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "CREPS Aix-en-Provence",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "PONT DE L'ARC 62 CHEMIN DU VIADUC 13090 AIX-EN-PROVENCE",
+    "postalCode": null,
+    "city": "13090",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "CREPS Auvergne - Rhône Alpes - Vichy",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "2 ROUTE DE CHARMEIL 03700 BELLERIVE-SUR-ALLIER",
+    "postalCode": null,
+    "city": "03700",
+    "department": "03",
+    "region": "Centre Val-de-Loir"
+  },
+  {
+    "name": "CREPS Bordeaux/Talence",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "653 COURS DE LA LIBERATION 33400 TALENCE",
+    "postalCode": null,
+    "city": "33400",
+    "department": "33",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "CREPS Centre Val de loire",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "48 AVENUE DU MARECHAL JUIN 18000 BOURGES",
+    "postalCode": null,
+    "city": "18000",
+    "department": "18",
+    "region": "Centre Val-de-Loir"
+  },
+  {
+    "name": "CREPS Guadeloupe",
+    "tutelle": "MSJOP",
+    "etabCount": 2,
+    "address": "ROUTE DES ABYMES 97139 LES ABYMES",
+    "postalCode": null,
+    "city": "97139",
+    "department": "97",
+    "region": "Guadeloupe"
+  },
+  {
+    "name": "CREPS Ile de France",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "1 RUE DU DOCTEUR LE SAVOUREUX 92290 CHATENAY-MALABRY",
+    "postalCode": null,
+    "city": "92290",
+    "department": "92",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "CREPS La Réunion",
+    "tutelle": "MSJOP",
+    "etabCount": 3,
+    "address": "ROUTE PHILIBERT TSIRANANA 97490 SAINT-DENIS",
+    "postalCode": null,
+    "city": "97490",
+    "department": "97",
+    "region": "La Réunion"
+  },
+  {
+    "name": "CREPS Montpellier Font Romeu",
+    "tutelle": "MSJOP",
+    "etabCount": 2,
+    "address": "2 AVENUE CHARLES FLAHAULT 34090 MONTPELLIER",
+    "postalCode": null,
+    "city": "34090",
+    "department": "34",
+    "region": "Occitanie"
+  },
+  {
+    "name": "CREPS Nancy",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "1 AVENUE FOCH 54270 ESSEY-LES-NANCY",
+    "postalCode": null,
+    "city": "54270",
+    "department": "54",
+    "region": "Grand Est"
+  },
+  {
+    "name": "CREPS Pays de Loire",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "5 AVENUE DE LA BABINIERE 44240 LA CHAPELLE-SUR-ERDRE",
+    "postalCode": null,
+    "city": "44340",
+    "department": "44",
+    "region": "Pays-de-la-Loire"
+  },
+  {
+    "name": "CREPS Poitiers",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "CHATEAU DE BOIVRE 86580 VOUNEUIL-SOUS-BIARD",
+    "postalCode": null,
+    "city": "86580",
+    "department": "86",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "CREPS Reims",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "ROUTE DE BEZANNES 51100 REIMS",
+    "postalCode": null,
+    "city": "51100",
+    "department": "51",
+    "region": "Grand Est"
+  },
+  {
+    "name": "CREPS Strasbourg",
+    "tutelle": "MSJOP",
+    "etabCount": 2,
+    "address": "4 ALLEE DU SOMMERHOF 67200 STRASBOURG",
+    "postalCode": null,
+    "city": "67200",
+    "department": "67",
+    "region": "Grand Est"
+  },
+  {
+    "name": "CREPS Toulouse",
+    "tutelle": "MSJOP",
+    "etabCount": 2,
+    "address": "1 AVENUE EDOUARD BELIN 31400 TOULOUSE",
+    "postalCode": null,
+    "city": "31400",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "CROUS Aix Marseille-Avignon",
+    "tutelle": "MESR",
+    "etabCount": 81,
+    "address": "31 AVENUE JULES FERRY 13100 AIX-EN-PROVENCE",
+    "postalCode": null,
+    "city": "13100",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "CROUS Amiens",
+    "tutelle": "MESR",
+    "etabCount": 41,
+    "address": "25 RUE SAINT-LEU 80000 AMIENS",
+    "postalCode": null,
+    "city": "80000",
+    "department": "80",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "CROUS Antilles-Guyane",
+    "tutelle": "MESR",
+    "etabCount": 16,
+    "address": "GESTION SERVICES CENTRAUX, FOUILLOLE 97110 POINTE A PITRE",
+    "postalCode": null,
+    "city": "97110",
+    "department": "97",
+    "region": "Guyane"
+  },
+  {
+    "name": "CROUS Bordeaux",
+    "tutelle": "MESR",
+    "etabCount": 84,
+    "address": "18 RUE DU HAMEL 33800 BORDEAUX",
+    "postalCode": null,
+    "city": "33800",
+    "department": "33",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "CROUS Bourgogne Franche Comté",
+    "tutelle": "MESR",
+    "etabCount": 48,
+    "address": "32 AVENUE DE L'OBSERVATOIRE 25000 BESANCON",
+    "postalCode": null,
+    "city": "25000",
+    "department": "25",
+    "region": "Bourgogne-Franche Comté"
+  },
+  {
+    "name": "CROUS Clermont Auvergne",
+    "tutelle": "MESR",
+    "etabCount": 19,
+    "address": "25 RUE ETIENNE DOLET 63000 CLERMONT-FERRAND",
+    "postalCode": null,
+    "city": "63000",
+    "department": "63",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "CROUS Créteil",
+    "tutelle": "MESR",
+    "etabCount": 57,
+    "address": "70 AVENUE DU GENERAL DE GAULLE 94000 CRETEIL",
+    "postalCode": null,
+    "city": "94000",
+    "department": "94",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "CROUS de Corse - Corte",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "22 AVENUE JEAN NICOLI 20250 CORTE",
+    "postalCode": null,
+    "city": "20250",
+    "department": "20",
+    "region": "Corse"
+  },
+  {
+    "name": "CROUS Grenoble",
+    "tutelle": "MESR",
+    "etabCount": 59,
+    "address": "80 ALL AMPERE 38400 SAINT MARTIN D'HERES",
+    "postalCode": null,
+    "city": "38400",
+    "department": "38",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "CROUS La Réunion et Mayotte - Ste Clotilde",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "SERVICE TRAITEMENT 20 AVENUE HIPPOLYTE FOUCQUE 97490 SAINT-DENIS",
+    "postalCode": null,
+    "city": "97490",
+    "department": "97",
+    "region": "Mayotte"
+  },
+  {
+    "name": "CROUS Lille",
+    "tutelle": "MESR",
+    "etabCount": 75,
+    "address": "CROUS, CITE MARIANNE 2 BOULEVARD DE STRASBOURG 59000 LILLE",
+    "postalCode": null,
+    "city": "59000",
+    "department": "59",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "CROUS Limoges",
+    "tutelle": "MESR",
+    "etabCount": 15,
+    "address": "39 G RUE CAMILLE GUERIN 87000 LIMOGES",
+    "postalCode": null,
+    "city": "87000",
+    "department": "87",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "CROUS Lorraine - Nancy",
+    "tutelle": "MESR",
+    "etabCount": 41,
+    "address": "75 RUE DE LAXOU 54000 NANCY",
+    "postalCode": null,
+    "city": "54000",
+    "department": "54",
+    "region": "Grand Est"
+  },
+  {
+    "name": "CROUS Lyon-St Etienne",
+    "tutelle": "MESR",
+    "etabCount": 95,
+    "address": "59 RUE DE LA MADELEINE 69007 LYON",
+    "postalCode": null,
+    "city": "69007",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "CROUS Montpellier Occitanie",
+    "tutelle": "MESR",
+    "etabCount": 88,
+    "address": "2 RUE MONTEIL 34090 MONTPELLIER",
+    "postalCode": null,
+    "city": "34090",
+    "department": "34",
+    "region": "Occitanie"
+  },
+  {
+    "name": "CROUS Nantes Pays de Loire",
+    "tutelle": "MESR",
+    "etabCount": 92,
+    "address": "2 BOULEVARD GUY MOLLET 44300 NANTES",
+    "postalCode": null,
+    "city": "44300",
+    "department": "44",
+    "region": "Pays-de-la-Loire"
+  },
+  {
+    "name": "CROUS Nice Toulon",
+    "tutelle": "MESR",
+    "etabCount": 34,
+    "address": "26 ROUTE DE TURIN 06300 NICE",
+    "postalCode": null,
+    "city": "06300",
+    "department": "06",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "CROUS Normandie - Rouen",
+    "tutelle": "MESR",
+    "etabCount": 60,
+    "address": "135 BOULEVARD DE L'EUROPE 76100 ROUEN",
+    "postalCode": null,
+    "city": "76100",
+    "department": "76",
+    "region": "Normandie"
+  },
+  {
+    "name": "CROUS Orléans Tours",
+    "tutelle": "MESR",
+    "etabCount": 54,
+    "address": "17 AVENUE DAUPHINE 45100 ORLEANS",
+    "postalCode": null,
+    "city": "45100",
+    "department": "45",
+    "region": "Centre Val-de-Loir"
+  },
+  {
+    "name": "CROUS Paris",
+    "tutelle": "MESR",
+    "etabCount": 158,
+    "address": "39 AVENUE GEORGES BERNANOS 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "CROUS Poitiers",
+    "tutelle": "MESR",
+    "etabCount": 54,
+    "address": "15 RUE GUILLAUME 7 LE TROUBADOUR 86000 POITIERS",
+    "postalCode": null,
+    "city": "86000",
+    "department": "86",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "CROUS Reims",
+    "tutelle": "MESR",
+    "etabCount": 19,
+    "address": "14 B ALLEE DES LANDAIS 51100 REIMS",
+    "postalCode": null,
+    "city": "51100",
+    "department": "51",
+    "region": "Grand Est"
+  },
+  {
+    "name": "CROUS Rennes",
+    "tutelle": "MESR",
+    "etabCount": 69,
+    "address": "7 PLACE HOCHE 35000 RENNES",
+    "postalCode": null,
+    "city": "35000",
+    "department": "35",
+    "region": "Bretagne"
+  },
+  {
+    "name": "CROUS Strasbourg",
+    "tutelle": "MESR",
+    "etabCount": 29,
+    "address": "1 QUAI DU MAIRE DIETRICH 67000 STRASBOURG",
+    "postalCode": null,
+    "city": "67000",
+    "department": "67",
+    "region": "Grand Est"
+  },
+  {
+    "name": "CROUS Toulouse Occitanie",
+    "tutelle": "MESR",
+    "etabCount": 53,
+    "address": "58 RUE DU TAUR 31000 TOULOUSE",
+    "postalCode": null,
+    "city": "31000",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "CROUS Versailles",
+    "tutelle": "MESR",
+    "etabCount": 86,
+    "address": "145 B BOULEVARD DE LA REINE 78000 VERSAILLES",
+    "postalCode": null,
+    "city": "78000",
+    "department": "78",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Ecole Centrale Lyon",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "36 AVENUE GUY DE COLLONGUE 69130 ECULLY",
+    "postalCode": null,
+    "city": "69130",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "Ecole centrale Marseille",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "TECHNOPOLE CHATEAU GOMBERT 38 RUE FREDERIC JOLIOT-CURIE 13013 MARSEILLE",
+    "postalCode": null,
+    "city": "13013",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "Ecole Centrale Nantes",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "1 RUE DE LA NOE 44300 NANTES",
+    "postalCode": null,
+    "city": "44300",
+    "department": "44",
+    "region": "Pays-de-la-Loire"
+  },
+  {
+    "name": "Ecole d'Economie et de Sciences Sociales Quantitatives de Toulouse - TSE Toulouse",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "1 ESPLANADE DE L'UNIVERSITE 31000 TOULOUSE",
+    "postalCode": null,
+    "city": "31000",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Ecole des Hautes Etudes en Sciences Sociales - Paris",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "54 BOULEVARD RASPAIL 75006 PARIS",
+    "postalCode": null,
+    "city": "75006",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Ecole Française d'Athènes",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "6 RUE DIDOTOU ATHENES GRECE",
+    "postalCode": null,
+    "city": "GRECE",
+    "department": "GR",
+    "region": "ETRANGER"
+  },
+  {
+    "name": "Ecole Française de Rome",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "62 RUE PIAZZA NAVONA ROME ITALIE",
+    "postalCode": null,
+    "city": "IT",
+    "department": "IT",
+    "region": "ETRANGER"
+  },
+  {
+    "name": "Ecole française d'Extrême Orient",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "22 AVENUE DU PRESIDENT WILSON 75016 PARIS",
+    "postalCode": null,
+    "city": "75016",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Ecole Nationale Supérieure d'Arts et Métiers",
+    "tutelle": "MESR",
+    "etabCount": 10,
+    "address": "151 BOULEVARD DE L'HOPITAL 75013 PARIS",
+    "postalCode": null,
+    "city": "75013",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Ecole Pratique des Hautes Etudes - PSL",
+    "tutelle": "MESR",
+    "etabCount": 7,
+    "address": "4-14 4 RUE FERRUS 75014 PARIS",
+    "postalCode": null,
+    "city": "75014",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "EN des Chartes - PSL",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "65 RUE DE RICHELIEU 75002 PARIS",
+    "postalCode": null,
+    "city": "75002",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "EN des Sports de Montagne - Chamonix",
+    "tutelle": "MSJOP",
+    "etabCount": 2,
+    "address": "35 ROUTE DU BOUCHET 74400 CHAMONIX-MONT-BLANC",
+    "postalCode": null,
+    "city": "74400",
+    "department": "74",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "EN des Sports de Voile et des Sports Nautiques - St Pierre Quiberon",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "LE BEG ROHU 56510 SAINT-PIERRE-QUIBERON",
+    "postalCode": null,
+    "city": "56510",
+    "department": "56",
+    "region": "Bretagne"
+  },
+  {
+    "name": "EN d'Ingénieurs de Brest",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "TECHNOPOLE BREST IROISE LA POINTE DU DIABLE 29280 PLOUZANE",
+    "postalCode": null,
+    "city": "29280",
+    "department": "29",
+    "region": "Bretagne"
+  },
+  {
+    "name": "ENS - membre de l'Université Paris Sciences et Lettres",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "45 RUE D'ULM 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ENS de chimie de Montpellier",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "240 AVENUE DU PROFESSEUR EMILE JEANBRAU 34090 MONTPELLIER",
+    "postalCode": null,
+    "city": "34090",
+    "department": "34",
+    "region": "Occitanie"
+  },
+  {
+    "name": "ENS de Chimie de Paris",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "11 RUE PIERRE ET MARIE CURIE 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ENS de chimie de Rennes",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "11 ALL DE BEAULIEU 35000 RENNES",
+    "postalCode": null,
+    "city": "35000",
+    "department": "35",
+    "region": "Bretagne"
+  },
+  {
+    "name": "ENS de l'Electronique et de ses Applications - Cergy",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "6 AVENUE DU PONCEAU 95000 CERGY",
+    "postalCode": null,
+    "city": "95000",
+    "department": "95",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ENS de Mécanique et d'Aéronautique - Poitiers",
+    "tutelle": "MESR",
+    "etabCount": 0,
+    "address": "",
+    "postalCode": null,
+    "city": "",
+    "department": "",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "ENS de Mécanique et des Microtechniques - Besançon",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "26 RUE DE L'EPITAPHE 25000 BESANCON",
+    "postalCode": null,
+    "city": "25000",
+    "department": "25",
+    "region": "Bourgogne-Franche Comté"
+  },
+  {
+    "name": "ENS des Arts et Industries Textiles - Roubaix",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "2 ALLEE LOUISE ET VICTOR CHAMPIER 59100 ROUBAIX",
+    "postalCode": null,
+    "city": "59100",
+    "department": "59",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "ENS des Arts et Techniques du Théâtre - Lyon",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "4 RUE SOEUR BOUVIER 69005 LYON",
+    "postalCode": null,
+    "city": "69005",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "ENS des Sciences de l'Information et des Bibliothèques - Villeurbanne",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "17--21 17 BOULEVARD DU 11 NOVEMBRE 1918 69100 VILLEURBANNE",
+    "postalCode": null,
+    "city": "69100",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "ENS d'Informatique pour l'Industrie et l'Entreprise - Evry",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "1 PL DE LA RESISTANCE 91000 EVRY-COURCOURONNES",
+    "postalCode": null,
+    "city": "91000",
+    "department": "91",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ENS d'Ingénieurs Caen",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "6 BOULEVARD MARECHAL JUIN 14000 CAEN",
+    "postalCode": null,
+    "city": "14000",
+    "department": "14",
+    "region": "Normandie"
+  },
+  {
+    "name": "ENS Lyon",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "15 PARVIS RENE DESCARTES 69007 LYON",
+    "postalCode": null,
+    "city": "69007",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "ENS Paris Saclay",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "4 AVENUE DES SCIENCES 91190 GIF-SUR-YVETTE",
+    "postalCode": null,
+    "city": "91190",
+    "department": "91",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ENS Rennes",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "CAMPUS DE KER LANN AVENUE ROBERT SCHUMANN 35170 BRUZ",
+    "postalCode": null,
+    "city": "35170",
+    "department": "35",
+    "region": "Bretagne"
+  },
+  {
+    "name": "France Education International",
+    "tutelle": "MENJ",
+    "etabCount": 1,
+    "address": "1 AVENUE LEON JOURNAULT 92310 SEVRES",
+    "postalCode": null,
+    "city": "92310",
+    "department": "92",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Haut Conseil de l'Evaluation de la Recherche et de l'Enseignement Supérieur - Paris",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "2-8 2 RUE ALBERT EINSTEIN 75013 PARIS",
+    "postalCode": null,
+    "city": "75013",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Hautes Ecoles Sorbonne Arts et Métiers Université - Paris",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "15 RUE SOUFFLOT 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "IEP Aix en Provence",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "25 RUE GASTON DE SAPORTA 13100 AIX-EN-PROVENCE",
+    "postalCode": null,
+    "city": "13100",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "IEP Bordeaux",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "BORDEAUX, CAMPUS UNIVERSITAIRE 11 ALLEE AUSONE 33600 PESSAC",
+    "postalCode": null,
+    "city": "33600",
+    "department": "33",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "IEP Lyon",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "14 AVENUE BERTHELOT 69007 LYON",
+    "postalCode": null,
+    "city": "69007",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "IEP Rennes",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "104 BOULEVARD DE LA DUCHESSE ANNE 35000 RENNES",
+    "postalCode": null,
+    "city": "35000",
+    "department": "35",
+    "region": "Bretagne"
+  },
+  {
+    "name": "IEP Toulouse",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "21 ALLEE DE BRIENNE 31000 TOULOUSE",
+    "postalCode": null,
+    "city": "31000",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Institut d'Administration des Entreprises - Paris",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "IAE, 8 RUE DE LA CROIX JARRY 75013 PARIS",
+    "postalCode": null,
+    "city": "75013",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut de Physique du Globe de Paris",
+    "tutelle": "MESR",
+    "etabCount": 6,
+    "address": "1 RUE JUSSIEU 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut de Recherche pour le Développement - Marseille",
+    "tutelle": "MESR",
+    "etabCount": 11,
+    "address": "IMMEUBLE LE SEXTANT 44 BOULEVARD DE DUNKERQUE 13002 MARSEILLE",
+    "postalCode": null,
+    "city": "13002",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "Institut National de la Santé et de la Recherche Médicale - Paris",
+    "tutelle": "MESR",
+    "etabCount": 263,
+    "address": "101 RUE DE TOLBIAC 75013 PARIS",
+    "postalCode": null,
+    "city": "75013",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National de Recherche en Informatique et en Automatique - Rocquencourt",
+    "tutelle": "MESR",
+    "etabCount": 10,
+    "address": "INRIA SIEGE, DOM DE VOLUCEAU 78150 LE CHESNAY-ROCQUENCOURT",
+    "postalCode": null,
+    "city": "78150",
+    "department": "78",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National de Recherche pour l'Agriculture, l'alimentation et l'Environnement - Paris",
+    "tutelle": "MESR",
+    "etabCount": 226,
+    "address": "INRAE CENTRE-SIEGE PARIS 07, 147 RUE DE L'UNIVERSITE 75007 PARIS",
+    "postalCode": null,
+    "city": "75007",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National d'enseignement supérieur et de Recherche pour l'éducation Inclusive - Suresnes",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "58 A 60 58 AVENUE DES LANDES 92150 SURESNES",
+    "postalCode": null,
+    "city": "92150",
+    "department": "92",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National des Langues et Civilisations Orientales - Paris",
+    "tutelle": "MESR",
+    "etabCount": 6,
+    "address": "65 RUE DES GRANDS MOULINS 75013 PARIS",
+    "postalCode": null,
+    "city": "75013",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National des Sciences Appliquées de Lyon",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE LYON, 20 AVENUE ALBERT EINSTEIN 69100 VILLEURBANNE",
+    "postalCode": null,
+    "city": "69100",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "Institut National des Sciences Appliquées de Rouen Normandie",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "AVENUE DE L'UNIVERSITE 76800 SAINT-ETIENNE-DU-ROUVRAY",
+    "postalCode": null,
+    "city": "76800",
+    "department": "76",
+    "region": "Normandie"
+  },
+  {
+    "name": "Institut National des Sciences Appliquées de Strasbourg",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "24 BOULEVARD DE LA VICTOIRE 67000 STRASBOURG",
+    "postalCode": null,
+    "city": "67000",
+    "department": "67",
+    "region": "Grand Est"
+  },
+  {
+    "name": "Institut National des Sciences Appliquées de Toulouse",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "INSA, 135 AVENUE DE RANGUEIL 31400 TOULOUSE",
+    "postalCode": null,
+    "city": "31400",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Institut National des Sciences Appliquées du Centre Val de loire - Blois",
+    "tutelle": "MESR",
+    "etabCount": 3,
+    "address": "CAMPUS BOURGES - TECHNOPOLE LAHITOLLE 88 BOULEVARD LAHITOLLE 18000 BOURGES",
+    "postalCode": null,
+    "city": "18000",
+    "department": "18",
+    "region": "Centre Val-de-Loir"
+  },
+  {
+    "name": "Institut National d'Etudes Démographiques - Aubervilliers",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "9 COURS DES HUMANITES 93300 AUBERVILLIERS",
+    "postalCode": null,
+    "city": "93300",
+    "department": "93",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National du Sport, de l'Expertise et de la Performance - Paris",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "11 AVENUE DU TREMBLAY 75012 PARIS",
+    "postalCode": null,
+    "city": "75012",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Institut National Polytechnique Bordeaux",
+    "tutelle": "MESR",
+    "etabCount": 7,
+    "address": "1 AVENUE DU DR ALBERT SCHWEITZER 33400 TALENCE",
+    "postalCode": null,
+    "city": "33400",
+    "department": "33",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "Institut National Polytechnique Clermont Auvergne - Aubière",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "CAMPUS DES CEZEAUX 27 RUE ROCHE-GENES 63170 AUBIERE",
+    "postalCode": null,
+    "city": "63170",
+    "department": "63",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "Institut National Polytechnique Toulouse",
+    "tutelle": "MESR",
+    "etabCount": 7,
+    "address": "6 ALLEE EMILE MONSO 31400 TOULOUSE",
+    "postalCode": null,
+    "city": "31400",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Institut National U Champollion - Albi",
+    "tutelle": "MESR",
+    "etabCount": 8,
+    "address": "JF CHAMPOLLION, PLACE DE VERDUN 81000 ALBI",
+    "postalCode": null,
+    "city": "81000",
+    "department": "81",
+    "region": "Occitanie"
+  },
+  {
+    "name": "Institut Polytechnique Grenoble",
+    "tutelle": "MESR",
+    "etabCount": 18,
+    "address": "INP GRENOBLE, 46 AVENUE FELIX VIALLET 38000 GRENOBLE",
+    "postalCode": null,
+    "city": "38000",
+    "department": "38",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "Institut Supérieur de Mécanique de Paris",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "3 RUE FERNAND HAINAUT 93400 SAINT-OUEN-SUR-SEINE",
+    "postalCode": null,
+    "city": "93400",
+    "department": "93",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "ISAE - ENSMA - Poitiers",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "ECOLE NAT SUP MECANIQUE AEROTECHNIQUE, TELEPORT 2 1 AVENUE CLEMENT ADER 86360 CHASSENEUIL-DU-POITOU",
+    "postalCode": null,
+    "city": "86360",
+    "department": "86",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "Musée National du Sport - Nice",
+    "tutelle": "MSJOP",
+    "etabCount": 1,
+    "address": "6 ALLEE CAMILLE MUFFAT 06200 NICE",
+    "postalCode": null,
+    "city": "06000",
+    "department": "06",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "Museum National d'Histoire Naturelle - Paris",
+    "tutelle": "MESR",
+    "etabCount": 16,
+    "address": "57 RUE CUVIER 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Observatoire de la Côte d'Azur - Nice",
+    "tutelle": "MESR",
+    "etabCount": 5,
+    "address": "OBSERVATOIRE DE NICE 06000 NICE",
+    "postalCode": null,
+    "city": "06000",
+    "department": "06",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "Observatoire de Paris",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "61 AVENUE DE L'OBSERVATOIRE 75014 PARIS",
+    "postalCode": null,
+    "city": "75014",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Office National d'Information Sur les Enseignements et les Professions - Lognes",
+    "tutelle": "MENJ",
+    "etabCount": 28,
+    "address": "12 MAIL BARTHELEMY THIMONNIER 77185 LOGNES",
+    "postalCode": null,
+    "city": "77185",
+    "department": "77",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Aix Marseille - Marseille",
+    "tutelle": "MESR",
+    "etabCount": 71,
+    "address": "UNIVERSITE D'AIX MARSEILLE, 58 BOULEVARD CHARLES LIVON 13007 MARSEILLE",
+    "postalCode": null,
+    "city": "13007",
+    "department": "13",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "U Amiens - Picardie Jules Verne",
+    "tutelle": "MESR",
+    "etabCount": 47,
+    "address": "PRESIDENCE DE L UNIVERSITE, CHEMIN DU THIL 80000 AMIENS",
+    "postalCode": null,
+    "city": "80000",
+    "department": "80",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "U Angers",
+    "tutelle": "MESR",
+    "etabCount": 22,
+    "address": "40 RUE DE RENNES 49100 ANGERS",
+    "postalCode": null,
+    "city": "49100",
+    "department": "49",
+    "region": "Pays-de-la-Loire"
+  },
+  {
+    "name": "U Artois - Arras",
+    "tutelle": "MESR",
+    "etabCount": 23,
+    "address": "9 RUE DU TEMPLE 62000 ARRAS",
+    "postalCode": null,
+    "city": "62000",
+    "department": "62",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "U Avignon",
+    "tutelle": "MESR",
+    "etabCount": 18,
+    "address": "74 RUE LOUIS PASTEUR 84000 AVIGNON",
+    "postalCode": null,
+    "city": "84000",
+    "department": "84",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "U Bordeaux - Talence",
+    "tutelle": "MESR",
+    "etabCount": 39,
+    "address": "35 PLACE PEY BERLAND 33000 BORDEAUX",
+    "postalCode": null,
+    "city": "33000",
+    "department": "33",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "U Bordeaux Montaigne - Pessac",
+    "tutelle": "MESR",
+    "etabCount": 30,
+    "address": "SCIENCES HUMAINES, DOM UNIVERSITAIRE 33600 PESSAC",
+    "postalCode": null,
+    "city": "33600",
+    "department": "33",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "U Bourgogne - Dijon",
+    "tutelle": "MESR",
+    "etabCount": 54,
+    "address": "MAISON DE L'UNIVERSITE CAMPUS ESPLANADE ERASME 21000 DIJON",
+    "postalCode": null,
+    "city": "21000",
+    "department": "21",
+    "region": "Bourgogne-Franche Comté"
+  },
+  {
+    "name": "U Bourgogne Franche Comté - Besançon",
+    "tutelle": "MESR",
+    "etabCount": 44,
+    "address": "UNIVERSITE DE FRANCHE-COMTE, 1 RUE CLAUDE GOUDIMEL 25000 BESANCON",
+    "postalCode": null,
+    "city": "25000",
+    "department": "25",
+    "region": "Bourgogne-Franche Comté"
+  },
+  {
+    "name": "U Bretagne Occidentale (Brest)",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "SITE 1 3 RUE MATTHIEU GALLOU 29200 BREST",
+    "postalCode": null,
+    "city": "29200",
+    "department": "29",
+    "region": "Bretagne"
+  },
+  {
+    "name": "U Bretagne Sud - Vannes",
+    "tutelle": "MESR",
+    "etabCount": 36,
+    "address": "27 RUE ARMAND GUILLEMOT 56100 LORIENT",
+    "postalCode": null,
+    "city": "56100",
+    "department": "56",
+    "region": "Bretagne"
+  },
+  {
+    "name": "U Caen Normandie",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "ESPLANADE DE LA PAIX 14000 CAEN",
+    "postalCode": null,
+    "city": "14000",
+    "department": "14",
+    "region": "Normandie"
+  },
+  {
+    "name": "U Cergy - CY Cergy Paris Université",
+    "tutelle": "MESR",
+    "etabCount": 17,
+    "address": "33 BOULEVARD DU PORT 95000 CERGY",
+    "postalCode": null,
+    "city": "95000",
+    "department": "95",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Chambéry - Savoie Mont Blanc",
+    "tutelle": "MESR",
+    "etabCount": 29,
+    "address": "27 RUE MARCOZ 73000 CHAMBERY",
+    "postalCode": null,
+    "city": "73000",
+    "department": "73",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Clermont Auvergne - Clermont-Ferrand",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "49 BOULEVARD FRANCOIS MITTERRAND 63000 CLERMONT-FERRAND",
+    "postalCode": null,
+    "city": "63000",
+    "department": "63",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Côte d'Azur - Nice",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "GRAND CHATEAU 28 AVENUE VALROSE 06100 NICE",
+    "postalCode": null,
+    "city": "06100",
+    "department": "06",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "U de Corse Pasquale Aoli - Corte",
+    "tutelle": "MESR",
+    "etabCount": 19,
+    "address": "BAT JEAN TOUSSAINT DESANTI AVENUE DU 9 SEPTEMBRE 20250 CORTE",
+    "postalCode": null,
+    "city": "20250",
+    "department": "20",
+    "region": "Corse"
+  },
+  {
+    "name": "U de Guyane - Cayenne",
+    "tutelle": "MESR",
+    "etabCount": 5,
+    "address": "CAMPUS DE TROUBIRAN 2091 ROUTE DE BADUEL 97300 CAYENNE",
+    "postalCode": null,
+    "city": "97300",
+    "department": "97",
+    "region": "Guyane"
+  },
+  {
+    "name": "U de Haute Alsace - Mulhouse",
+    "tutelle": "MESR",
+    "etabCount": 32,
+    "address": "2 RUE DES FRERES LUMIERE 68200 MULHOUSE",
+    "postalCode": null,
+    "city": "68200",
+    "department": "68",
+    "region": "Grand Est"
+  },
+  {
+    "name": "U de Lorraine - Nancy",
+    "tutelle": "MESR",
+    "etabCount": 114,
+    "address": "34 COURS LEOPOLD 54000 NANCY",
+    "postalCode": null,
+    "city": "54000",
+    "department": "54",
+    "region": "Grand Est"
+  },
+  {
+    "name": "U de technologie Belfort Montbéliard",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "90010BELFORT CEDEX 10 RUE CHATEAU 90400 SEVENANS",
+    "postalCode": null,
+    "city": "90400",
+    "department": "90",
+    "region": "Bourgogne-Franche Comté"
+  },
+  {
+    "name": "U de technologie de Compiègne",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "UNIVERSITE DE TECHNOLOGIE DE COMPIEGNE, CENTRE PIERRE GUILLAUMAT RUE DU DOCTEUR SCHWEITZER 60200 COMPIEGNE",
+    "postalCode": null,
+    "city": "60200",
+    "department": "60",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "U de Technologie de Troyes",
+    "tutelle": "MESR",
+    "etabCount": 3,
+    "address": "12 RUE MARIE CURIE 10000 TROYES",
+    "postalCode": null,
+    "city": "10000",
+    "department": "10",
+    "region": "Grand Est"
+  },
+  {
+    "name": "U Evry",
+    "tutelle": "MESR",
+    "etabCount": 15,
+    "address": "23 BD FRANCOIS MITTERRAND 91000 EVRY-COURCOURONNES",
+    "postalCode": null,
+    "city": "91000",
+    "department": "91",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Grenoble Alpes",
+    "tutelle": "MESR",
+    "etabCount": 28,
+    "address": "621 AVENUE CENTRALE 38400 SAINT-MARTIN-D'HERES",
+    "postalCode": null,
+    "city": "38400",
+    "department": "38",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Gustave Eiffel - Champs-sur-Marne",
+    "tutelle": "MESR",
+    "etabCount": 26,
+    "address": "CAMPUS DE MARNE-LA-VALLEE 5 BOULEVARD DESCARTES 77420 CHAMPS-SUR-MARNE",
+    "postalCode": null,
+    "city": "77420",
+    "department": "77",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U La Réunion - St Denis 974",
+    "tutelle": "MESR",
+    "etabCount": 31,
+    "address": "15 AVENUE RENE CASSIN 97490 SAINT-DENIS",
+    "postalCode": null,
+    "city": "97490",
+    "department": "97",
+    "region": "La Réunion"
+  },
+  {
+    "name": "U La Rochelle",
+    "tutelle": "MESR",
+    "etabCount": 25,
+    "address": "UNIVERSITE LA ROCHELLE, 23 AVENUE ALBERT EINSTEIN 17000 LA ROCHELLE",
+    "postalCode": null,
+    "city": "17000",
+    "department": "17",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "U Le Havre Normandie",
+    "tutelle": "MESR",
+    "etabCount": 13,
+    "address": "25 RUE PHILIPPE LEBON 76600 LE HAVRE",
+    "postalCode": null,
+    "city": "76600",
+    "department": "76",
+    "region": "Normandie"
+  },
+  {
+    "name": "U Le Mans",
+    "tutelle": "MESR",
+    "etabCount": 15,
+    "address": "AVENUE OLIVIER MESSIAEN 72000 LE MANS",
+    "postalCode": null,
+    "city": "72000",
+    "department": "72",
+    "region": "Pays-de-la-Loire"
+  },
+  {
+    "name": "U Lille",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "42 RUE PAUL DUEZ 59800 LILLE",
+    "postalCode": null,
+    "city": "59800",
+    "department": "59",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "U Limoges",
+    "tutelle": "MESR",
+    "etabCount": 31,
+    "address": "SERVICES CENTRAUX, HOTEL DE L'UNIVERSITE 33 RUE FRANCOIS MITTERRAND 87000 LIMOGES",
+    "postalCode": null,
+    "city": "87000",
+    "department": "87",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "U Littoral Côte d'Opale - Dunkerque",
+    "tutelle": "MESR",
+    "etabCount": 26,
+    "address": "UNIVERSITE DU LITTORAL COTE D'OPALE, 1 PLACE DE L'YSER 59140 DUNKERQUE",
+    "postalCode": null,
+    "city": "59140",
+    "department": "59",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "U Lumière Lyon 2",
+    "tutelle": "MESR",
+    "etabCount": 21,
+    "address": "86 RUE PASTEUR 69007 LYON",
+    "postalCode": null,
+    "city": "69007",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Lyon 1 Claude Bernard",
+    "tutelle": "MESR",
+    "etabCount": 19,
+    "address": "43 BOULEVARD DU 11 NOVEMBRE 1918 69100 VILLEURBANNE",
+    "postalCode": null,
+    "city": "69100",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Lyon 3",
+    "tutelle": "MESR",
+    "etabCount": 18,
+    "address": "1 AVENUE DES FRERES LUMIERE 69008 LYON",
+    "postalCode": null,
+    "city": "69008",
+    "department": "69",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Montpellier 1",
+    "tutelle": "MESR",
+    "etabCount": 37,
+    "address": "163 RUE AUGUSTE BROUSSONNET 34090 MONTPELLIER",
+    "postalCode": null,
+    "city": "34090",
+    "department": "34",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "U Nantes",
+    "tutelle": "MESR",
+    "etabCount": 22,
+    "address": "1 QUAI DE TOURVILLE 44300 NANTES",
+    "postalCode": null,
+    "city": "44300",
+    "department": "44",
+    "region": "Pays-de-la-Loire"
+  },
+  {
+    "name": "U Nîmes",
+    "tutelle": "MESR",
+    "etabCount": 2,
+    "address": "RUE DU DOCTEUR GEORGES SALAN 30000 NIMES",
+    "postalCode": null,
+    "city": "30000",
+    "department": "30",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "U Orléans",
+    "tutelle": "MESR",
+    "etabCount": 41,
+    "address": "AV DU CHATEAU DE LA SOURCE 45000 ORLEANS",
+    "postalCode": null,
+    "city": "45000",
+    "department": "45",
+    "region": "Centre Val-de-Loir"
+  },
+  {
+    "name": "U Paris 1 Panthéon-Sorbonne",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "12 PLACE DU PANTHEON 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris Cité",
+    "tutelle": "MESR",
+    "etabCount": 13,
+    "address": "85 BOULEVARD SAINT-GERMAIN 75006 PARIS",
+    "postalCode": null,
+    "city": "75006",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris Dauphine PSL",
+    "tutelle": "MESR",
+    "etabCount": 8,
+    "address": "DAUPHINE, PLACE DU MARECHAL DE LATTRE DE TASSIGNY 75016 PARIS",
+    "postalCode": null,
+    "city": "75016",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris Est Créteil Val de Marne - Paris XII",
+    "tutelle": "MESR",
+    "etabCount": 74,
+    "address": "61 AVENUE DU GENERAL DE GAULLE 94000 CRETEIL",
+    "postalCode": null,
+    "city": "94000",
+    "department": "94",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris Nanterre",
+    "tutelle": "MESR",
+    "etabCount": 36,
+    "address": "200 AVENUE DE LA REPUBLIQUE 92000 NANTERRE",
+    "postalCode": null,
+    "city": "92000",
+    "department": "92",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris Saclay",
+    "tutelle": "MESR",
+    "etabCount": 4,
+    "address": "BATIMENT BREGUET 3 RUE JOLIOT-CURIE 91190 GIF-SUR-YVETTE",
+    "postalCode": null,
+    "city": "91190",
+    "department": "91",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris Sciences Lettres - UPSL",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "60 RUE MAZARINE 75006 PARIS",
+    "postalCode": null,
+    "city": "75006",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris VIII",
+    "tutelle": "MESR",
+    "etabCount": 43,
+    "address": "UNIVERSITE PARIS VIII.PARIS VINCENN, 2 RUE DE LA LIBERTE 93200 SAINT-DENIS",
+    "postalCode": null,
+    "city": "93200",
+    "department": "93",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Paris-Panthéon-Assas",
+    "tutelle": "MESR",
+    "etabCount": 3,
+    "address": "12 PLACE DU PANTHEON 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Pau",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "AVENUE DE L'UNIVERSITE 64000 PAU",
+    "postalCode": null,
+    "city": "64000",
+    "department": "64",
+    "region": "Occitanie"
+  },
+  {
+    "name": "U Perpignan Via Domitia",
+    "tutelle": "MESR",
+    "etabCount": 34,
+    "address": "52 AVENUE PAUL ALDUY 66100 PERPIGNAN",
+    "postalCode": null,
+    "city": "66100",
+    "department": "66",
+    "region": "Occitanie"
+  },
+  {
+    "name": "U Poitiers",
+    "tutelle": "MESR",
+    "etabCount": 48,
+    "address": "UNIVERSITE DE POITIERS, 15 RUE DE L'HOTEL DIEU 86000 POITIERS",
+    "postalCode": null,
+    "city": "86000",
+    "department": "86",
+    "region": "Nouvelle Aquitaine"
+  },
+  {
+    "name": "U Polynésie Française - Punaauia",
+    "tutelle": "MESR",
+    "etabCount": 3,
+    "address": "CAMPUS D OUTUMAORO 98703 PUNAAUIA",
+    "postalCode": null,
+    "city": "98703",
+    "department": "98",
+    "region": "Polynésie"
+  },
+  {
+    "name": "U polytechnique Hauts de France - Valenciennes",
+    "tutelle": "MESR",
+    "etabCount": 3,
+    "address": "UNIV VALENCIEN MONT HOUY 59300 AULNOY-LEZ-VALENCIENNES",
+    "postalCode": null,
+    "city": "59300",
+    "department": "59",
+    "region": "Hauts-de-France"
+  },
+  {
+    "name": "U Reims Champagne Ardennes",
+    "tutelle": "MESR",
+    "etabCount": 39,
+    "address": "2 AVENUE ROBERT SCHUMAN 51100 REIMS",
+    "postalCode": null,
+    "city": "51100",
+    "department": "51",
+    "region": "Grand Est"
+  },
+  {
+    "name": "U Rennes",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "CAMPUS DE BEAULIEU 263 AVENUE GENERAL LECLERC 35700 RENNES",
+    "postalCode": null,
+    "city": "35700",
+    "department": "35",
+    "region": "Bretagne"
+  },
+  {
+    "name": "U Rennes 2",
+    "tutelle": "MESR",
+    "etabCount": 18,
+    "address": "PLACE RECTEUR HENRI LE MOAL 35000 RENNES",
+    "postalCode": null,
+    "city": "35000",
+    "department": "35",
+    "region": "Bretagne"
+  },
+  {
+    "name": "U Sorbonne Nouvelle - Paris III",
+    "tutelle": "MESR",
+    "etabCount": 26,
+    "address": "17 RUE DE LA SORBONNE 75005 PARIS",
+    "postalCode": null,
+    "city": "75005",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Sorbonne Paris Nord - Paris XIII - Villetaneuse ",
+    "tutelle": "MESR",
+    "etabCount": 19,
+    "address": "UNIVERSITE PARIS XIII.PARIS-NORD, 99 AVENUE JEAN-BAPTISTE CLEMENT 93430 VILLETANEUSE",
+    "postalCode": null,
+    "city": "93430",
+    "department": "93",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U Sorbonne Université - Paris",
+    "tutelle": "MESR",
+    "etabCount": 40,
+    "address": "21 RUE DE L'ECOLE DE MEDECINE 75006 PARIS",
+    "postalCode": null,
+    "city": "75006",
+    "department": "75",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "U St Etienne - Jean Monnet",
+    "tutelle": "MESR",
+    "etabCount": 29,
+    "address": "MAISON DE L'UNIVERSITE 10 RUE TREFILERIE 42100 SAINT-ETIENNE",
+    "postalCode": null,
+    "city": "42100",
+    "department": "42",
+    "region": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "name": "U Strasbourg",
+    "tutelle": "MESR",
+    "etabCount": 67,
+    "address": "4 RUE BLAISE PASCAL 67000 STRASBOURG",
+    "postalCode": null,
+    "city": "67000",
+    "department": "67",
+    "region": "Grand Est"
+  },
+  {
+    "name": "U Toulon",
+    "tutelle": "MESR",
+    "etabCount": 22,
+    "address": "AV DE L UNIVERSITE 83130 LA GARDE",
+    "postalCode": null,
+    "city": "83130",
+    "department": "83",
+    "region": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "name": "U Toulouse Capitole - Toulouse I",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "2 RUE DU DOYEN GABRIEL MARTY 31000 TOULOUSE",
+    "postalCode": null,
+    "city": "31100",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "U Toulouse Jean Jaurès - Toulouse II",
+    "tutelle": "MESR",
+    "etabCount": 35,
+    "address": "5 ALLEE ANTONIO MACHADO 31100 TOULOUSE",
+    "postalCode": null,
+    "city": "31100",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "U Toulouse Midi Pyrénées / UNIVERSITE DE TOULOUSE (COMUE)",
+    "tutelle": "MESR",
+    "etabCount": 1,
+    "address": "41 ALLEES JULES GUESDE 31000 TOULOUSE",
+    "postalCode": null,
+    "city": "31000",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "U Toulouse P Sabatier - Toulouse III",
+    "tutelle": "MESR",
+    "etabCount": 53,
+    "address": "118 ROUTE DE NARBONNE 31400 TOULOUSE",
+    "postalCode": null,
+    "city": "31400",
+    "department": "31",
+    "region": "Occitanie"
+  },
+  {
+    "name": "U Tours",
+    "tutelle": "MESR",
+    "etabCount": 27,
+    "address": "60 RUE DU PLAT D'ETAIN 37000 TOURS",
+    "postalCode": null,
+    "city": "37000",
+    "department": "37",
+    "region": "Centre Val-de-Loir"
+  },
+  {
+    "name": "U Versailles Saint-Quentin",
+    "tutelle": "MESR",
+    "etabCount": 22,
+    "address": "55 AVENUE DE PARIS 78000 VERSAILLES",
+    "postalCode": null,
+    "city": "78000",
+    "department": "78",
+    "region": "Ile-de-France"
+  },
+  {
+    "name": "Universcience",
+    "tutelle": "Non spécifié",
+    "etabCount": 3,
+    "address": "AVENUE FRANKLIN D. ROOSEVELT 75008 PARIS",
+    "postalCode": null,
+    "city": "75008",
+    "department": "75",
+    "region": "Ile-de-France"
+  }
+]
