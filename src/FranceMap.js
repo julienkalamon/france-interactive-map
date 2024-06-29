@@ -30,15 +30,15 @@ const FranceMap = () => {
   const [establishments, setEstablishments] = useState([]);
   const [regionsGeoJSON, setRegionsGeoJSON] = useState(null);
 
-  useEffect(() => {
-    fetch('/geocoded_data.json')
-      .then(response => response.json())
-      .then(data => setEstablishments(data));
-    
-    fetch('/france-region.json')
-      .then(response => response.json())
-      .then(data => setRegionsGeoJSON(data));
-  }, []);
+useEffect(() => {
+  fetch(`${process.env.PUBLIC_URL}/geocoded_data.json`)
+    .then(response => response.json())
+    .then(data => setEstablishments(data));
+  
+  fetch(`${process.env.PUBLIC_URL}/france-region.json`)
+    .then(response => response.json())
+    .then(data => setRegionsGeoJSON(data));
+}, []);
 
   const regionStyle = {
     fillColor: "#FED976",

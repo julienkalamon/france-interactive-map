@@ -2,7 +2,7 @@
   "name": "france-interactive-map",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juliendalaman.github.io/france-interactive-map",
+  "homepage": "https://julienkalamon.github.io/france-interactive-map",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
