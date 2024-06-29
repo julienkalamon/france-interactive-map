@@ -1938,5 +1938,15 @@
     "city": "75008",
     "department": "75",
     "region": "Ile-de-France"
-  }
+  },
+ {
+    "name": "Casa de Velasquez",
+    "tutelle": "Non spécifié",
+    "etabCount": 1,
+    "address": "CIUDAD UNIVERSITARIA 3 C/DE PAUL GUINARD MADRID ESPAGNE",
+    "postalCode": null,
+    "city": "ES",
+    "department": "ES",
+    "region": "ETRANGER"
+  },
 ]
