@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, GeoJSON } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import MarkerClusterGroup from '@changey/react-leaflet-markercluster';
+import '@changey/react-leaflet-markercluster/dist/styles.min.css';
 
 const tutelleColors = {
   MENJ: "#ff7f00",
@@ -29,16 +31,17 @@ const createCustomIcon = (color) => {
 const FranceMap = () => {
   const [establishments, setEstablishments] = useState([]);
   const [regionsGeoJSON, setRegionsGeoJSON] = useState(null);
+  const [isClustered, setIsClustered] = useState(true);
 
-useEffect(() => {
-  fetch(`${process.env.PUBLIC_URL}/geocoded_data.json`)
-    .then(response => response.json())
-    .then(data => setEstablishments(data));
-  
-  fetch(`${process.env.PUBLIC_URL}/france-region.json`)
-    .then(response => response.json())
-    .then(data => setRegionsGeoJSON(data));
-}, []);
+  useEffect(() => {
+    fetch(`${process.env.PUBLIC_URL}/geocoded_data.json`)
+      .then(response => response.json())
+      .then(data => setEstablishments(data));
+    
+    fetch(`${process.env.PUBLIC_URL}/france-region.json`)
+      .then(response => response.json())
+      .then(data => setRegionsGeoJSON(data));
+  }, []);
 
   const regionStyle = {
     fillColor: "#FED976",
@@ -57,23 +60,45 @@ useEffect(() => {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         />
         {regionsGeoJSON && <GeoJSON data={regionsGeoJSON} style={regionStyle} />}
-        {establishments.map((estab, index) => (
-          estab.lat && estab.lon ? (
-            <Marker 
-              key={index} 
-              position={[estab.lat, estab.lon]}
-              icon={createCustomIcon(tutelleColors[estab.original_Tutelle] || tutelleColors["Non spécifié"])}
-            >
-              <Popup>
-                <div>
-                  <h3>{estab.original_NOM}</h3>
-                  <p>Ministère de tutelle : {estab.original_Tutelle || 'Non spécifié'}</p>
-                  <p>Nombre d'établissements ouverts : {estab['original_Nombre ETB actif'] || 'Non spécifié'}</p>
-                </div>
-              </Popup>
-            </Marker>
-          ) : null
-        ))}
+        {isClustered ? (
+          <MarkerClusterGroup>
+            {establishments.map((estab, index) => (
+              estab.lat && estab.lon ? (
+                <Marker 
+                  key={index} 
+                  position={[estab.lat, estab.lon]}
+                  icon={createCustomIcon(tutelleColors[estab.original_Tutelle] || tutelleColors["Non spécifié"])}
+                >
+                  <Popup>
+                    <div>
+                      <h3>{estab.original_NOM}</h3>
+                      <p>Ministère de tutelle : {estab.original_Tutelle || 'Non spécifié'}</p>
+                      <p>Nombre d'établissements ouverts : {estab['original_Nombre ETB actif'] || 'Non spécifié'}</p>
+                    </div>
+                  </Popup>
+                </Marker>
+              ) : null
+            ))}
+          </MarkerClusterGroup>
+        ) : (
+          establishments.map((estab, index) => (
+            estab.lat && estab.lon ? (
+              <Marker 
+                key={index} 
+                position={[estab.lat, estab.lon]}
+                icon={createCustomIcon(tutelleColors[estab.original_Tutelle] || tutelleColors["Non spécifié"])}
+              >
+                <Popup>
+                  <div>
+                    <h3>{estab.original_NOM}</h3>
+                    <p>Ministère de tutelle : {estab.original_Tutelle || 'Non spécifié'}</p>
+                    <p>Nombre d'établissements ouverts : {estab['original_Nombre ETB actif'] || 'Non spécifié'}</p>
+                  </div>
+                </Popup>
+              </Marker>
+            ) : null
+          ))
+        )}
       </MapContainer>
       <div style={{ width: '20%', padding: '20px', overflowY: 'auto' }}>
         <h2>Légende</h2>
@@ -83,6 +108,16 @@ useEffect(() => {
             <span>{tutelle}</span>
           </div>
         ))}
+        <div style={{ marginTop: '20px' }}>
+          <label>
+            <input 
+              type="checkbox" 
+              checked={isClustered} 
+              onChange={() => setIsClustered(!isClustered)} 
+            />
+            Activer la clusterisation
+          </label>
+        </div>
       </div>
     </div>
   );
