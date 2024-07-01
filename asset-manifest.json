@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/france-interactive-map/static/css/main.ff5679a6.css",
-    "main.js": "/france-interactive-map/static/js/main.4b9184cb.js",
+    "main.js": "/france-interactive-map/static/js/main.84dc5e26.js",
     "static/js/453.beb14ff3.chunk.js": "/france-interactive-map/static/js/453.beb14ff3.chunk.js",
     "index.html": "/france-interactive-map/index.html",
     "main.ff5679a6.css.map": "/france-interactive-map/static/css/main.ff5679a6.css.map",
-    "main.4b9184cb.js.map": "/france-interactive-map/static/js/main.4b9184cb.js.map",
+    "main.84dc5e26.js.map": "/france-interactive-map/static/js/main.84dc5e26.js.map",
     "453.beb14ff3.chunk.js.map": "/france-interactive-map/static/js/453.beb14ff3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff5679a6.css",
-    "static/js/main.4b9184cb.js"
+    "static/js/main.84dc5e26.js"
   ]
 }
